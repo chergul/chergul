@@ -21,7 +21,7 @@ I am writing codes, using libraries for my HTML to make a delicate website. Usin
 
 ## 🤜🏻🤛🏻 Support Me
 
-You can support me and [buy me a coffee][4], if you want. 🙏🏻 
+You can support me and [buy me a coffee][4], if you want. 🙏🏻 or you can give me a star ⭐️
 
 
 ## 💬 Ask me anyting
