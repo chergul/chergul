@@ -6,11 +6,7 @@
 
 ### Hey 👋🏻,
 
-As a teenager at school, I was the girl who was formatting to her own computer without any guides just by doing the research. It doesn’t matter I graduated from law school and practicing for around 10 years now.
-Today, I took an opportunity and changed my career into a web developer.
-
 I am writing codes, using libraries for my HTML to make a delicate website. Using JavaScript, jQuery for back-ends also for responsiveness. I do have adequate knowledge of object-oriented programming and databases as well. So you can fins some fun projects in my repo ✨
-
 
 ## 📬 Get in touch with me
 
@@ -18,16 +14,9 @@ I am writing codes, using libraries for my HTML to make a delicate website. Usin
 - LinkedIn: [https://www.linkedin.com/in/ceyda-hergul/][2]
 - Twitter: [twitter.com/chergul][3]
 
-
 ## 🤜🏻🤛🏻 Support Me
 
 You can support me and [buy me a coffee][4], if you want. 🙏🏻 or you can give me a star ⭐️
-
-
-## 💬 Ask me anyting
-
-ceyda_hergul@hotmail.com
-
 
 ## 👯 Looking to colobrate
 
