@@ -4,13 +4,15 @@
 
 <br>
 
+## Front-End Web Developer
+
 ### Hey 👋🏻,
 
 I am writing codes, using libraries for my HTML to make a delicate website. Using JavaScript, jQuery for back-ends also for responsiveness. I do have adequate knowledge of object-oriented programming and databases as well. So you can fins some fun projects in my repo ✨
 
 ## 📬 Get in touch with me
 
-- Web: [ceydahergul.com][1] - `coming soon`
+- Web: [ceydahergul.com][1]
 - LinkedIn: [https://www.linkedin.com/in/ceyda-hergul/][2]
 - Twitter: [twitter.com/chergul][3]
 
